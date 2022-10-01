@@ -1,4 +1,4 @@
-# 通过padavan固件的路由器连接GZHU校园网，并且IPv6可用
+# 通过padavan连接GZHU校园网，并且IPv6可用
 
 ## 准备工作
 
