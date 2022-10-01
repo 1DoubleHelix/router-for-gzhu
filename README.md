@@ -32,7 +32,7 @@
 ## 替换和配置mentohust
 
 1. 前提
-   - Padavan自带的`mentohust`不能连接GZHU的校园网，需要使用[此mentohust](/MentoHUST)
+   - Padavan自带的`mentohust`不能连接GZHU的校园网，需要使用[此mentohust](/mentohust)
    - 请在以下每一步操作后，在网页底部应用本页面设置
 2. 写入并保存
    - 进入padavan后台，选择系统管理->服务，打开SSH权限![示例](pic/1.png)
